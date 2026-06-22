@@ -2,24 +2,14 @@ name: LeetCode Auto Sync
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *' # Automatically runs once every day at midnight to refresh stats
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Sync LeetCode Submissions
+      - name: Sync
         uses: joshcai/leetcode-sync@v1.7
         with:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-
-      - name: Update LeetCode Stats Card
-        uses: jejodas/leetcode-stats-card@v1.1.1
-        with:
-          username: gauravgupta5813-coder # Your LeetCode Username
