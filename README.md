@@ -4,8 +4,7 @@ My personal repository tracking data structures and algorithms problem-solving j
 
 ## 📊 Live Statistics
 
-<!-- leetcode_stats_start -->
-<!-- leetcode_stats_end -->
+![Gaurav's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=gauravgupta5813-coder&theme=dark)
 
 ---
 
