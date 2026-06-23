@@ -31,4 +31,12 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
