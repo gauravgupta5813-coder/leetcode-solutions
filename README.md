@@ -9,7 +9,7 @@ My personal repository tracking data structures and algorithms problem-solving j
 ---
 
 ## 🛠️ Tech Stack & Languages
-* **Primary Language:** C
+* **Primary Language:** C++
 * **Automation:** GitHub Actions (`joshcai/leetcode-sync`)
 
 ---
