@@ -29,6 +29,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 ## Counting
 |  |
 | ------- |
@@ -100,4 +101,8 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Simulation
+|  |
+| ------- |
+| [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 <!---LeetCode Topics End-->
