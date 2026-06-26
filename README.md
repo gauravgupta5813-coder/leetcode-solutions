@@ -65,6 +65,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Two Pointers
 |  |
 | ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -74,6 +75,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -96,11 +98,13 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Game Theory
