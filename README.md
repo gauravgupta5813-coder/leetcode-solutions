@@ -24,6 +24,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -32,6 +33,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 ## Counting
@@ -86,6 +88,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -140,6 +143,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0078-subsets) |
+| [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
