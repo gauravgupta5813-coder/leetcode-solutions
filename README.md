@@ -84,6 +84,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0078-subsets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0078-subsets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -109,6 +110,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -116,6 +118,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
