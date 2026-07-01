@@ -39,6 +39,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
@@ -161,6 +162,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2079-watering-plants](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2079-watering-plants) |
+| [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Enumeration
@@ -233,6 +235,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
