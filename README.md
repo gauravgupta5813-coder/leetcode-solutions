@@ -46,6 +46,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -82,6 +83,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3100-water-bottles-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3100-water-bottles-ii) |
+| [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
@@ -102,6 +104,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +178,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
