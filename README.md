@@ -73,6 +73,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0048-rotate-image) |
+| [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
@@ -173,6 +174,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2079-watering-plants](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2079-watering-plants) |
