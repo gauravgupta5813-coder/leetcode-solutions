@@ -47,6 +47,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2942-find-words-containing-character](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
@@ -130,6 +131,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2942-find-words-containing-character](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
