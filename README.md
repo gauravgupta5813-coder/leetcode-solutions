@@ -33,6 +33,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3945-digit-frequency-score](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3100-water-bottles-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3100-water-bottles-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3945-digit-frequency-score](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
