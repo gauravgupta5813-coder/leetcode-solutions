@@ -307,4 +307,8 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
