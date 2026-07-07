@@ -93,6 +93,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3100-water-bottles-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3100-water-bottles-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -103,6 +104,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Two Pointers
 |  |
 | ------- |
