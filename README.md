@@ -249,6 +249,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
@@ -298,4 +299,8 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
