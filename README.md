@@ -320,5 +320,6 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Database
 |  |
 | ------- |
+| [0608-tree-node](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0608-tree-node) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
