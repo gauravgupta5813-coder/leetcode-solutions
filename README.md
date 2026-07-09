@@ -28,6 +28,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -48,6 +49,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
@@ -68,6 +70,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -148,6 +151,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2079-watering-plants](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
