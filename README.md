@@ -331,6 +331,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0608-tree-node) |
+| [1757-recyclable-and-low-fat-products](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bucket Sort
 |  |
