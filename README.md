@@ -36,6 +36,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3941-password-strength](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -64,6 +65,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3941-password-strength](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
 |  |
