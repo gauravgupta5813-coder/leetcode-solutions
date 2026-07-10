@@ -46,6 +46,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1678-goal-parser-interpretation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
