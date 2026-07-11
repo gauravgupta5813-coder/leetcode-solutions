@@ -135,6 +135,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3794-reverse-string-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Brainteaser
 |  |
@@ -173,6 +174,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -307,6 +309,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Breadth-First Search
 |  |
