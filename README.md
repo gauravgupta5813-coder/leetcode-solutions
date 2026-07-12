@@ -161,6 +161,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1720-decode-xored-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -273,6 +274,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0078-subsets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0078-subsets) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
+| [1720-decode-xored-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
