@@ -125,6 +125,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -281,6 +282,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -343,6 +345,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -366,4 +369,8 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
