@@ -25,6 +25,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -154,6 +155,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1288-remove-covered-intervals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -222,6 +224,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
