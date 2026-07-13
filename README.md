@@ -88,6 +88,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1641-count-sorted-vowel-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -154,6 +155,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0078-subsets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0078-subsets) |
 | [0419-battleships-in-a-board](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1288-remove-covered-intervals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
