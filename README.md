@@ -198,6 +198,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2942-find-words-containing-character](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
