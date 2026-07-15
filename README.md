@@ -123,6 +123,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3100-water-bottles-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3100-water-bottles-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -199,6 +200,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -273,6 +275,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2079-watering-plants](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3100-water-bottles-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3100-water-bottles-ii) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -363,6 +366,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
