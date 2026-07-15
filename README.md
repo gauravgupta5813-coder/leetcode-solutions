@@ -124,6 +124,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3280-convert-date-to-binary](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -139,6 +140,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Two Pointers
 |  |
