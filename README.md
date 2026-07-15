@@ -166,6 +166,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -326,6 +327,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Binary Search Tree
 |  |
 | ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
