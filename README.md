@@ -413,4 +413,8 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
