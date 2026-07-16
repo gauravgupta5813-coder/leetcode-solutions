@@ -118,6 +118,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [1688-count-of-matches-in-tournament](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -281,6 +282,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1389-create-target-array-in-the-given-order](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1688-count-of-matches-in-tournament](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2079-watering-plants](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2079-watering-plants) |
