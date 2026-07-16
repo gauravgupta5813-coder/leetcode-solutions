@@ -131,6 +131,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -145,6 +146,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Two Pointers
 |  |
@@ -156,6 +158,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3794-reverse-string-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -211,6 +214,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3693-climbing-stairs-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +267,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
 | ------- |
@@ -282,6 +287,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
