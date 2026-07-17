@@ -124,6 +124,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1688-count-of-matches-in-tournament](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3100-water-bottles-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3100-water-bottles-ii) |
@@ -250,6 +251,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -269,6 +271,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
