@@ -45,6 +45,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0537-complex-number-multiplication](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [1021-remove-outermost-parentheses](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -113,6 +114,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0537-complex-number-multiplication](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -279,6 +281,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
