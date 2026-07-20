@@ -181,6 +181,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0746-min-cost-climbing-stairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -295,6 +296,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
+| [1260-shift-2d-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -378,6 +380,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0048-rotate-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0419-battleships-in-a-board](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
+| [1260-shift-2d-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
