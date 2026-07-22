@@ -144,6 +144,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
