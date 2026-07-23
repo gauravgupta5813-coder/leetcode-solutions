@@ -78,6 +78,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3498-reverse-degree-of-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3941-password-strength](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3941-password-strength) |
@@ -95,6 +96,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -419,6 +421,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Design
 |  |
 | ------- |
