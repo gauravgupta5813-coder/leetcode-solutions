@@ -55,6 +55,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1529-minimum-suffix-flips](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -198,6 +199,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1816-truncate-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1816-truncate-sentence) |
