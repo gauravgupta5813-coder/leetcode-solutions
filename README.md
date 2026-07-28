@@ -24,6 +24,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -48,6 +49,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0537-complex-number-multiplication](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
+| [0791-custom-sort-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1021-remove-outermost-parentheses](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -292,6 +294,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1288-remove-covered-intervals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
