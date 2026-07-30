@@ -66,6 +66,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
@@ -180,6 +181,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -228,6 +230,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2079-watering-plants](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2079-watering-plants) |
+| [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -343,6 +346,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2079-watering-plants](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2079-watering-plants) |
+| [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3100-water-bottles-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3100-water-bottles-ii) |
