@@ -132,6 +132,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0537-complex-number-multiplication](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -378,6 +379,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0078-subsets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0078-subsets) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1720-decode-xored-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
