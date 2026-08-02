@@ -33,6 +33,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2367-number-of-arithmetic-triplets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -191,6 +192,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -247,6 +249,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -377,6 +380,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [1291-sequential-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2367-number-of-arithmetic-triplets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
