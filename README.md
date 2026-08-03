@@ -278,6 +278,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3693-climbing-stairs-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -381,6 +382,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -413,6 +415,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Recursion
 |  |
