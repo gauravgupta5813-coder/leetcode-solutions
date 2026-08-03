@@ -36,6 +36,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -198,6 +199,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2367-number-of-arithmetic-triplets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -258,6 +260,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2373-largest-local-values-in-a-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -343,6 +346,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
