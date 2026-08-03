@@ -153,6 +153,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2235-add-two-integers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -257,6 +258,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2373-largest-local-values-in-a-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
