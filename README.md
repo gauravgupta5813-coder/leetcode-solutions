@@ -43,6 +43,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -283,6 +284,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3693-climbing-stairs-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3731-find-missing-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -357,6 +359,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3731-find-missing-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
