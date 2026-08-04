@@ -47,6 +47,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3843-first-element-with-unique-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3941-password-strength](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## String
@@ -113,6 +114,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3843-first-element-with-unique-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +290,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3843-first-element-with-unique-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
