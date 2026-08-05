@@ -130,6 +130,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Prefix Sum
 |  |
 | ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -151,6 +152,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -240,6 +242,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1470-shuffle-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1720-decode-xored-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
