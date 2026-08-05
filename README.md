@@ -132,6 +132,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -168,6 +169,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3280-convert-date-to-binary](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -285,6 +287,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
