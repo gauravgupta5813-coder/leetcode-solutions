@@ -27,6 +27,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0791-custom-sort-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -236,6 +237,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1267-count-servers-that-communicate](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -324,6 +326,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1529-minimum-suffix-flips](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -349,6 +352,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1288-remove-covered-intervals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -507,6 +511,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2974-minimum-number-game) |
