@@ -171,6 +171,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3280-convert-date-to-binary](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -411,6 +412,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
