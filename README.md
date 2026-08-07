@@ -149,6 +149,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
@@ -331,6 +332,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1529-minimum-suffix-flips](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1529-minimum-suffix-flips) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
