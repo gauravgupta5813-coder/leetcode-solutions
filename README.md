@@ -122,6 +122,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
+| [1395-count-number-of-teams](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1641-count-sorted-vowel-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -244,6 +245,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1338-reduce-array-size-to-the-half](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1395-count-number-of-teams](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -321,6 +323,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Segment Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -576,4 +579,8 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
