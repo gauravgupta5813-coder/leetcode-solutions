@@ -248,6 +248,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1572-matrix-diagonal-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1720-decode-xored-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1720-decode-xored-array) |
@@ -497,6 +498,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1572-matrix-diagonal-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
