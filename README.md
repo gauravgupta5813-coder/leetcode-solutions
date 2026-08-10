@@ -130,6 +130,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0746-min-cost-climbing-stairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
 | [1395-count-number-of-teams](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1395-count-number-of-teams) |
+| [1510-stone-game-iv](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1641-count-sorted-vowel-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -162,6 +163,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1447-simplified-fractions](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -409,6 +411,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Simulation
@@ -618,4 +621,20 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
