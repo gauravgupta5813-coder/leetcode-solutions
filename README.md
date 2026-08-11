@@ -81,6 +81,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -226,6 +227,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0557-reverse-words-in-a-string-iii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -289,6 +291,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2079-watering-plants](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2079-watering-plants) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
