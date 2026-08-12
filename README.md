@@ -226,6 +226,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -253,6 +254,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0832-flipping-an-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -432,6 +434,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
+| [0832-flipping-an-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1518-water-bottles) |
@@ -475,6 +478,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0078-subsets) |
+| [0832-flipping-an-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -532,6 +536,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0048-rotate-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0419-battleships-in-a-board](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [0832-flipping-an-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
