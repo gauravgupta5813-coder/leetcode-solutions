@@ -108,6 +108,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3894-traffic-signal-color](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3941-password-strength](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
@@ -202,6 +203,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -459,6 +461,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3775-reverse-words-with-same-vowel-count](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Enumeration
 |  |
 | ------- |
