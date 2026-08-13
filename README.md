@@ -106,6 +106,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3941-password-strength](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -238,6 +239,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
@@ -454,6 +456,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
