@@ -152,6 +152,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1664-ways-to-make-a-fair-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2485-find-the-pivot-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -185,6 +186,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2652-sum-multiples) |
