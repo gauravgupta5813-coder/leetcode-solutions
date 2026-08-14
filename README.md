@@ -304,6 +304,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
