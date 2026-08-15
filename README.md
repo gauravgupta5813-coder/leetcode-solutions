@@ -349,6 +349,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3683-earliest-time-to-finish-one-task](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3693-climbing-stairs-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -506,6 +507,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Recursion
 |  |
