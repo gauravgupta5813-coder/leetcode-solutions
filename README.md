@@ -273,6 +273,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1051-height-checker) |
 | [1250-check-if-it-is-a-good-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -411,6 +412,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [1051-height-checker](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -643,6 +645,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1051-height-checker) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Geometry
@@ -670,6 +673,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## Minimax
 |  |
