@@ -168,6 +168,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0537-complex-number-multiplication](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
+| [1250-check-if-it-is-a-good-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1323-maximum-69-number) |
@@ -225,6 +226,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -271,6 +273,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1250-check-if-it-is-a-good-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1267-count-servers-that-communicate](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -653,10 +656,12 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1447-simplified-fractions) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1447-simplified-fractions](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1447-simplified-fractions) |
 ## String Matching
 |  |
@@ -682,4 +687,12 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
