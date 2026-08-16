@@ -102,6 +102,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 | [3280-convert-date-to-binary](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -202,6 +203,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -228,6 +230,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -467,6 +470,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -608,6 +612,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
