@@ -194,6 +194,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2843-count-symmetric-integers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3100-water-bottles-ii) |
@@ -488,6 +489,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1291-sequential-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2843-count-symmetric-integers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
