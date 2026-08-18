@@ -310,6 +310,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -435,6 +436,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1859-sorting-the-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -717,4 +719,8 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
