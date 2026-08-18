@@ -50,6 +50,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -355,6 +356,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
