@@ -22,6 +22,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0791-custom-sort-string) |
@@ -121,6 +122,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -269,6 +271,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0048-rotate-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0078-subsets) |
+| [0347-top-k-frequent-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -375,6 +378,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -414,6 +418,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -597,6 +602,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -638,6 +644,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Stack
 |  |
@@ -706,4 +713,8 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
