@@ -96,6 +96,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2864-maximum-odd-binary-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -201,6 +202,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2652-sum-multiples](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
+| [2864-maximum-odd-binary-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3099-harshad-number) |
@@ -416,6 +418,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2864-maximum-odd-binary-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
