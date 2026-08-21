@@ -82,6 +82,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1678-goal-parser-interpretation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1844-replace-all-digits-with-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
