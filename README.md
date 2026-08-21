@@ -32,6 +32,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -83,6 +84,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
