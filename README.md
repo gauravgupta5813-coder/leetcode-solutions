@@ -367,6 +367,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
