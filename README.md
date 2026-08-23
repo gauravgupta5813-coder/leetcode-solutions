@@ -87,6 +87,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1844-replace-all-digits-with-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1927-sum-game) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -198,6 +199,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1688-count-of-matches-in-tournament](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1927-sum-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -419,6 +421,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -481,6 +484,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Simulation
 |  |
