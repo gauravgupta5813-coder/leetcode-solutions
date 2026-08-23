@@ -1,0 +1,25 @@
+class Solution {
+public:
+    bool sumGame(string num) {
+        int n = num.size();
+        int sum_diff = 0;
+        int q_diff = 0;
+        int sign = 0;
+        for (int i = 0; i < n; i++) {
+            if (i < n / 2)
+                sign = 1;
+            else
+                sign = -1;
+
+            if (num[i] == '?') {
+                q_diff += sign;
+            } else
+                sum_diff += sign * (num[i] - '0');
+        }
+
+        if ((q_diff % 2) != 0) {
+            return true;
+        }
+        return (sum_diff * 2 + q_diff * 9) != 0;
+    }
+};
