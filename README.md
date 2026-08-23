@@ -201,6 +201,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
