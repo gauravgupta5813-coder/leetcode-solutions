@@ -294,6 +294,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [0692-top-k-frequent-words](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0746-min-cost-climbing-stairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -591,6 +592,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 ## Binary Search Tree
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -754,4 +756,8 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
