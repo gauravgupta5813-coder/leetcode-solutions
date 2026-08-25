@@ -56,6 +56,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -389,6 +390,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3693-climbing-stairs-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
