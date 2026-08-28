@@ -84,6 +84,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
@@ -269,6 +270,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1768-merge-strings-alternately](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
