@@ -348,6 +348,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2079-watering-plants](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2079-watering-plants) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -443,6 +444,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1927-sum-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
