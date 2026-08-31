@@ -4,10 +4,10 @@ public:
         int n = words.size();
         int count = 0;
         for(int i=0; i<n; i++){
+            string s = words[i];
+            reverse(s.begin(), s.end());
             for(int j=i+1; j<n; j++){
-                string s = words[j];
-                reverse(s.begin(), s.end());
-                if(words[i] == s){
+                if(words[j] == s){
                     count++;
                 }
             }
