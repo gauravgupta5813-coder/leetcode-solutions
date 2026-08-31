@@ -45,6 +45,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -103,6 +104,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2185-counting-words-with-a-given-prefix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2405-optimal-partition-of-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -369,6 +371,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2711-difference-of-number-of-distinct-values-on-diagonals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2711-difference-of-number-of-distinct-values-on-diagonals) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -525,6 +528,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2109-adding-spaces-to-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3100-water-bottles-ii) |
