@@ -418,6 +418,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3847-find-the-score-difference-in-a-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3917-count-indices-with-opposite-parity](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3917-count-indices-with-opposite-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
