@@ -214,6 +214,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1688-count-of-matches-in-tournament](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -348,6 +349,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1816-truncate-sentence](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -743,6 +745,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Binary Indexed Tree
 |  |
 | ------- |
