@@ -58,6 +58,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -413,6 +414,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -574,6 +576,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2843-count-symmetric-integers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2843-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -610,6 +613,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
