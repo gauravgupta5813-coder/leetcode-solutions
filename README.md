@@ -239,6 +239,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -560,6 +561,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [3248-snake-in-matrix](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3271-hash-divided-string) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -604,6 +606,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -615,6 +618,7 @@ Each folder contains the code solution file fetched directly from my accepted Le
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauravgupta5813-coder/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
